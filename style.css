@@ -1,0 +1,43 @@
+.Heading {
+ color: red;
+}
+.Heading1 {
+    font-style: bold;
+    color: red;
+    font-style: italic;
+}
+.introlist {
+    margin: 10px;
+color: darkred;
+
+}
+.delete{
+    font-weight: bold;
+    color: darkred;
+    text-decoration: line-through;
+}
+.background {
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.underline {
+    color: darkred;
+    text-decoration: underline;
+    font-style: italic;
+}
+.unlist {
+    color: darkred;
+    letter-spacing: 3px;
+}
+.footer {
+    color: darkred;
+}
+a {
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+}
+.li {
+    margin: 20px;
+}
